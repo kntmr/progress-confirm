@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "progress-confirm",
+  "version": "1.0",
+  "description": "What's the progress on it?",
+  "icons": {
+    "16": "images/icon.png",
+    "48": "images/icon.png",
+    "128": "images/icon.png"
+  },
+  "browser_action": {
+    "default_icon": "images/icon.png",
+    "default_popup": "html/popup.html"
+  }
+}
